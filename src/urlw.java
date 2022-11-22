@@ -6,9 +6,9 @@ import java.net.URL;
 import java.util.Scanner;
 
 import java.util.logging.Logger;
-public class WordInURL {
+public class urlw {
 
-    public static final String TAG = WordInURL.class.getSimpleName();
+    public static final String TAG = urlw.class.getSimpleName();
     public static final Logger LOG = Logger.getLogger(TAG);
     public static final String ANSI_PURPLE = "\u001B[35m";
     public static final String ANSI_RESET = "\u001B[0m";
